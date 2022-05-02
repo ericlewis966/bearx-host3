@@ -1,0 +1,28 @@
+{
+  "name": "bearx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "http": "0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "secure": "node secure_server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyber-storm-200712/bearx-host3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyber-storm-200712/bearx-host3/issues"
+  },
+  "homepage": "https://github.com/cyber-storm-200712/bearx-host3#readme"
+}
